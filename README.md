@@ -9,8 +9,12 @@
 
 ---
 
+## 📜 Последнее обновление
+➡️ [🎉 DeadLyze — старт проекта! 🎉](https://github.com/DeadLyze/deadlyze-app-releases/blob/main/%231-v1.0.0-13.08.2025.md)
+
+---
+
 ## 🔗 Badges
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/DeadLyze/deadlyze-app-releases?style=for-the-badge)  
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DeadLyze/deadlyze-app-releases?style=for-the-badge)](https://github.com/DeadLyze/deadlyze-app-releases/releases)  
 ![GitHub all releases](https://img.shields.io/github/downloads/DeadLyze/deadlyze-app-releases/total?style=for-the-badge)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLyze.deadlyze-app-releases&style=for-the-badge)  
-![Rating](https://img.shields.io/badge/rating-★★★★★-brightgreen?style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLyze.deadlyze-app-releases&style=for-the-badge)
