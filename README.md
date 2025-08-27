@@ -10,7 +10,7 @@
 ---
 
 ## 📜 Последнее обновление
-➡️ [🎉 DeadLyze — старт проекта! 🎉](https://github.com/DeadLyze/deadlyze-app-releases/blob/main/%231-v1.0.0-13.08.2025.md)
+➡️ [🛠 Исправления и улучшения](https://github.com/DeadLyze/deadlyze-app-releases/blob/main/%232-v1.0.11-27.08.2025.md)
 
 ---
 
